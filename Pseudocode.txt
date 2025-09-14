@@ -1,0 +1,13 @@
+// Pseudocode //
+
+
+
+	Notes:
+		1. A pseudocode algorithim is a set of instructions for how to solve
+		a particular problem. 2. Problem solving is the act of finding a solution
+		to a perplexing, distressning, vexing or unsettled question. A problem is
+		as a question raised for inquiry, consideration, or solution. In mathematics,
+		a problem is usually a situation to resolve with well-defined mathematical principals.
+		A human (the programmer) must analyze the problem, develope the instructions for solving
+		the problem (the program), and then have the computer carry out the instructions. The 
+		computer can then repeat the instruction, agian and agian, for different situations and data.  

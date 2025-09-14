@@ -1,0 +1,36 @@
+// Memory //
+
+
+Notes:
+	A collection of cells, with a unique physical address, as storage units are
+grouped together by 8 bits holding a one or zero.
+
+Memory Addressiblity:
+	The number of bits in each addressable location, called the memories addressability,
+as most PCs are byte-addressable nowadays. 
+					₃₂
+Ex: A 32 bit machine could distinguish 2   memory addresses. The cells in memory are
+numbered conseculetively beginning with 0
+
+
+Ex: Below is a table of bits the processor can distinguish with their location.
+		    ₙ
+ₙ bits can address 2  locations 
+Below example is, Addressibility is 8 bits and 256 cells.
+
+	Address		Contents
+//	00000000	11100011 <---- bit pattern would be 1100011
+//	00000001	10101001
+//	:		:
+//	:		:
+//	11111100	00000000
+//	11111101	11111111
+//	11111110	10101010
+//	11111111	00110011
+
+We must apply an interpretation on any bit pattern to determine the information
+it repersents. The bits are numbered from right to left beginning with zero.
+
+The bits in address 11111110 
+76543210 <--- Bit position, Numbered from right to left beginning with 0
+10101010 <--- Contents

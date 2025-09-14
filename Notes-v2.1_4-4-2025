@@ -1,0 +1,45 @@
+// Notes v2.1_4-4-2025 //
+
+NOT Gates:
+If the input value for a NOT gate is 0, the output value is 1, and if the input
+value is 1, the output value is 0. The NOT gate is also called an inverter. 
+Because it inverts the input value. 
+
+Boolean expressions for NOT gates:
+is repersented by ' after the variable being negated. And sometimes, this is
+also represented by a bar over the varibale being negated. This is called an
+assignment statement. 
+Ex:           _
+	X=A' or X=A
+Logic diagram:
+ is a circle found on the input and outputs of logic gates. This is called 
+ the inversion bubble. A logic diagram is a trianlge with an inversion bubble
+ on the end.
+ Ex:
+ 	∆•
+ 	
+The Logic Diagram Symbol for a NOT gate is a triangle with a small circle on the
+end called an inversion bubble. The input and output shown as lines flowing into
+the and out of the gate. Sometimes these lines are labeled, but not always.
+Ex:
+   --►·
+ 
+ REVIEW OF ALL THE GATES:
+ 
+ A NOT gate inverts it's single input value. ' (in Boolean alegebra) or 
+ horizontal bar over value being negated(vague term for equals). A NOT gate also Referred to as
+ an inverter.
+ An AND gate produces 1 if both input values are 1. * or •
+ An OR gate produces 1 if one or the other or both input values are 1.
+ An XOR gate produces 1 if one or the other(but not both) input values are 1. ⊕
+ An NAND gate produces the opposite results of an AND gate. Also use inversion
+ bubble. --►·
+ A NOR gate produces the opposite results of an OR gate. Also use inversion
+ bubble. --►·
+ 
+ Negated: 
+ A' = NOT A
+ 
+ Value being nagated is A. The negation in this regard is NOT A. (aka nullified,
+ negatived)
+ 

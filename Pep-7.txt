@@ -1,0 +1,78 @@
+// Pep/7 //
+
+
+
+Notes:
+	Operational words are programmable, store, retrieve, and process. 
+		
+	Machine Language:Assembly Language: the Lowest Level Programming Language: the Highest Level Programming Language
+		
+		Pep/7 has 7 registers, 
+			PC(program counter), 
+			IR(instruction register, contains a copy of the  instruction being executed) 
+			The accumulator(A register, used to hold data,and
+				the results of operations. This is the ALU(arithemtic/Logic Unit used to perform operations such as AND, OR, NOT),
+				The status bits give information about the contents of the A register(the accumulator)). 
+			Status bit N(which is 1 if the A register is negative, 0 otherwise), 
+			Status Bit Z(which is 1 if the A register is 0; and 0 otherwise).  
+		
+				
+				Status bits				 N,Z   <---- 2bit addressing mode specifier
+				A register(accumulator)			16bits <---- 
+		
+			There are two parts of an instruction:
+					
+				{Program Counter (PC)			8bits  <---- instruction specifier, ex: adding a # already in register, & knowing where the operand is.
+ 			 	{Instruction Register(IR)		16bits <---- operand specifier 
+					
+					 	 PC = 1. First 5bits, are Operation code(bit string, all the way left),
+						      2. Next 1bit, is Register specifier 0(always contains a zero)
+						      3. Last 2bits, is Addressing mode specifier(00, 01)<--this is called immediate addressing
+THE MEANING OF INSTRUCTION
+
+THE MEANING OF INSTRUCTION:
+       
+       OPCODE MEANGING OF INSTRUCTION
+	00000 STOP EXECUTION					<-- Notice ALL are ONLY 5 bits Length <-- THE STATUS BITS(2bits) BIN
+	00001 LOAD OPERAND INTO THE A REGISTER 		<-- Notice ALL are ONLY 5 bits Length <-- THE STATUS BITS(2bits) BIN
+	
+	00010 STORE THE CONTENTS OF THE A REGISTER INTO OPERAND <-- Notice ALL are ONLY 5 bits Length <-- THE STATUS BITS(2bits) HEX 
+	00011 ADD THE OPERAND TO A REGISTER 			<-- Notice ALL are ONLY 5 bits Length <-- THE STATUS BITS(2bits) HEX
+	00100 SUBTRACT THE OPERAND FROM A REGISTER 		<-- Notice ALL are ONLY 5 bits Length <-- THE STATUS BITS(2bits) HEX
+	11011 CHARACTER INPUT TO OPERAND (ASCII)DIRECT ADD ONLY	<-- Notice ALL are ONLY 5 bits Length <-- THE STATUS BITS(2bits) HEX
+	11100 CHARACTER OUTPUT FROM OPERAND 			<-- Notice ALL are ONLY 5 bits Length <-- THE STATUS BITS(2bits) HEX}      1.    2.   3.
+																	00000   0    01
+																	5BITS 00,01 N,Z (IN TOTAL WOULD LOOK LIKE 00000001)
+																	BIN
+
+
+NOTES: THE MEANING OF INSTRUCTION
+00001 could be either immediate or direct addressing 	1.
+00010 stores the contents in either immediate or direct addressing	2.
+
+00011 adds the hex value to the A register using the value from immediate or direct addressing	3.
+00100 subtracts the hex from the A register using the value from the immediate or direct address
+11011 allows program to enter an ASCII char from input device, Only direct addressing is allowed.
+11100 this sends an ASCII char to output device, Only direct addressing is allowed.
+
+		THE IMMEDIATE ADDRESSING MODE means the value to be loaded into the A register is in the OPERAND SPECIFIER(IR-16bits)(BELOW)
+		
+		THE DIRECT ADDRESSING MODE HOLDS THE ADDRESS' WHERE THE OPERAND IS IN MEMORY, OPERAND SPECIFIER has HEX Locations. 
+
+
+
+
+
+______________________________________________________________________________________________________________________
+SIDE NOTE:
+	The addresses in memory themselves are not stored in memory, but that they 𝚗𝚊𝚖𝚎 the individual bytes of memory.
+	
+	Review of binary and hexidecimal numbers, largest decimal value that can be repersented is 255, this occurs when
+	all of its bits are 1's: 11111111 in binary, FF in hexidecimal, and 255 in decimal. The largest value that can be
+	repersented in a word is 16 bits and 65,535, this occurs when all 16 bits are 1's:1111111111111111 in binary, FFFF
+	in hexidecimal, and 63,535 in decimal. This can be repersented in positive and negative, -7FFF to +7FFF(this would 
+	be FFFF to FFFF, but repersenting as a negative or positive we lose a bit of value making it -7FFF to +7FFF in 
+	hexidecimal. The very first location to be stored is 000A
+
+1. uses direct addressing mode(determines where the data is stored or is to be stored 16bits), 
+3. uses immediate addressing mode(says how to determine this part of the instruction 8bits)

@@ -1,0 +1,55 @@
+// Problem Solving //
+
+
+
+Notes:
+	Use different methods if necessary, introduce auxiliary element if needed,
+	check each step, prove it, prove the answer is correct. Ask yourself, What 
+	do I know about the problem? What is the information that I have to process
+	in order to find the solution? What does the solution look like? What sort
+	of special cases exist? How will I recognize that I have found the solution?
+
+	Look for Fimiliar things.
+		Don't over think it, I have seen this before, and I know what to do.
+		Similar problems different guises. A good programmer sees a task, or
+		prehaps part of a task (subtask), that has been solved before and
+		plugs in the solution. 
+
+	Divide and Conquer.
+		Break up larger problems into smaller units that we can handle. This
+		concept is abstraction, cleaning the house(for example) is large, 
+		but made up of subtasks, such as cleaning the bedroom, abstraction
+		of details of straightening the dresser, vacuuming the floor,... .
+
+	Applying these strategies.
+		Okay Now, lets apply these strategies(called heuristics). Now lets
+		clean the house again using this strategy. First decide what needs
+		done exactly, the bedroom needs cleaned, the kitchen and bathroom need 
+		cleaned, the dining and living room need straightened. Now, do we need
+		to do the dishes, if so do we have soap and a scrub pad, do we have bleach
+		for the bathroom? The bedroom needs cleaned, the bed needs to be made,
+		do we have clean sheets? The living and dining room need straightened,
+		do we need to dust, if so do we have a rag and water spritzer? The
+		dining room needs striaghtened, do we need to sweep, do we have a broom
+		and dust pan?
+		If we have trouble remembering, we could easily make a "To-Do List", or
+		a reminder. We could hash mark each task to be completed, if we used a 
+		reminder every week for example the reminder would ding a notification,
+		and again we would have the tasks of cleaning the house agian with each
+		subtask being, chores, checking them as we complete them one by one. This
+		is called repittion or looping. If a was to create a reminder for my friend
+		I might ask my friend what tasks he needs completed and this is called conditional
+		processing.
+
+	Algorithms.
+		In Polya's List, the last sentence in the second step says that you should eventually
+		obtain a plan of the solution, in computing this is called algorithm. An algorithm
+		is a set of instructions for solving a problem or subproblem in a finite amount of time
+		using finite amount of data. In computing we must make certian conditions are explicit
+		that are implicit in human solution. Making certiain that the solution satisfies the problem.
+		The third step in Poyla's List is to carry out the plan, test the solution to prove is solves
+		the problem. The fourth step in Poyla's List is to examine the solution for future applicability.
+
+Poyla's How to Sove It List Poyla, George; How to Solve It. Copyright © 1945 renewed 1973 by Princeton University Press.
+Reprinted by permission of Princeton University Press. 5:07 PM 6/15/2025
+		

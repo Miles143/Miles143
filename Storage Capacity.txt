@@ -1,0 +1,23 @@
+// Storage Capacity //
+
+
+Power of 10		Power of 2		Value of Power of 2		Prefix		Abbreviation		Derivation
+  
+  ₋₁₂
+10										pico		p			Spanish for little	
+  ₋₉
+10										nano		n			Greek for dwarf
+  ₋₆
+10										micro		μ			Greek for small
+  ₋₃
+10										milli		m			Latin for thousand
+  ₃			  ₁₀
+10			2			1024				kilo		K			Greek for thousandth
+  ₆			  ₂₀
+10			2			1,048,576			mega		M			Greek for large
+  ₉			  ₃₀ 
+10			2			1,073,741,824			giga		G			Greek for giant
+  ₁₂			  ₄₀ 
+10			2			not enough			tera		T			Greek for monster
+  ₁₅			  ₅₀
+10			2			not enough			peta		P			Greek prefix for five

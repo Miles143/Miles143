@@ -1,0 +1,28 @@
+// Touch Screens //
+
+
+
+Note: 
+	Other input/output (I/O) devices allow human user interaction with an exectuing
+	program. Barcode readers, image scanners, printers and plotters are examples of (I/O)'s.
+
+	Ex: 
+		resistive touch screen, is made up of two layers, one vertical lines and second 
+		horizontal lines of electrically conductive material. When pressed the electrical
+		current begins to flow.
+		
+		capacitive touch screen, has a laminent over a glass screen. The laminent conducts
+		electricity in all directions
+
+		infrared touch screen, projects crisscrossing horizontal and vertical beams of infrared
+		light just over the surface of the screen. Sensors on opposite sides detect the beams.
+
+		surface acoustic wave (SAW) touch screen, is similar to infrared, except it projects high
+		freuency sound waves across the horizontal, and vertical axis'. Interruption is the detection.
+
+		
+Note: 
+	A gloved hand could be used in resistive, infrared, and SAW touch screens but cannot be used with 
+	capacitive touch screens, which rely on current flowing to the touch point.
+
+		

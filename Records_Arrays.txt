@@ -1,0 +1,31 @@
+// Records and Arrays //
+
+
+
+notes:
+	using program #5 as an example "Sequence Solver" knowing the base #(FirstTerm)
+is key and knowing the the difference, can result all factorial #'s.
+
+	Factorial #'s:
+			using factorial #'s as boolean for example:
+								// The factorial of 0 is 1. //
+								// Factorial(0) //
+
+								// what happens if the argument is a negative number? //
+								// the subprogram keeps calling itself until the runtime //
+								// support system runs out of memory //
+								// a base case, and/or general case are two reasons to use infinte recursion //
+									// this is called infinite recursion or infinte loop //
+
+	Asynchronous processing:
+				// Which means "not at the same time", and is event driven, usually by clicking something, and uses atomic data types. //
+ 	a Record:
+		A record is named heterogenuous collection of items each is given an Identifier and type, each are passing a record as a parameter to a subprogram, and individual component access.
+	
+	Array:
+		An array is a collection if homogenuous items in which individual items are accessed by location. The place within the collection is called an "Index", some languages call the first place
+		the 0th item, and some allow the user to name how they are addressed.
+			ex:
+				first item maybe called Ath item.
+		An array variable can be passed as a parameter, making cells/locations accessible.
+			Variables in array's and records names are treated alike.
