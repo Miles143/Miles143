@@ -1,0 +1,62 @@
+// finit mathematical notes //
+
+
+
+notes:
+	Functions of a Variable
+A function of one variable is a relation that assigns to each "input" # a unique "output" #.
+The set of all input #'s is called a domain. The set of all output #'s is called a range.
+
+	Squaring #'s is a Function
+Take # x as an input, we square that # to find the output x²
+	so, 
+		x=x² } this would be a function
+			also written as x=x^2
+
+			you would define the function 1st so,
+			⨍(x), or ⨍(x)=x²
+
+	R=Real Numbers
+The domain and range are the sets of all the x-coordinates, and all the y-coordinates of ordered
+pairs respectively. ex: R={(1,2),(2,2),(3,3),(4,3)}, then:
+							Domain= the set of all x-coordinates={1,2,3,4}
+
+							Range= the set of all y-coordinates={2,3}
+******************************************************************************************************
+******************************************************************************************************
+Let's say Patrick Michael McMahon sells Jesus t-shirts, & Adonai t-shirts. Patrick Michael McMahon 
+produced x1 of Jesus t-shirts, at a Profit of $4 per item, and produced x2 of Adonai t-shirts at a
+profit of $6 per item, then the total profit P is a function of the two variables x1 and x2 and is 
+	given by:
+		P(x₁,x₂)=4x₁+6x₂
+
+find P(25,10), P(0,18)
+
+P(25,10)=4(25)+6(10)
+	  100 + 60
+	     160
+	P(25,10)=160
+P(0,18)=4(0)+6(18)
+	  0 + 108
+	    108
+	P(0,18)=108
+
+So, Patrick Michael McMahon would have made a profit of $0 selling Jesus t-shirts selling 0 Jesus t-shirts, 
+and would have made a profit of $108 on Adonai t-shirts selling 18 Adonai t-shirts.
+*****************************************************************************************************
+*****************************************************************************************************
+ 
+Real World
+Problem→→→→→→Abstract→→→→→→→Mathematical Model
+    ↓                     ↗          ↓
+    ↓                   ↗            ↓
+    ↓                 ↗              ↓ 
+    ↓               ↗                ↓
+Experiment      Modify          Derive Results
+    ↓          ↗                     ↓
+    ↓        ↗                       ↓
+    ↓      ↗                         ↓
+    ↓    ↗                           ↓
+    ↓ ↗                              ↓                                
+Data←←←←←←←←←←Interpret←←←←←←←←←←←Predict
+	       Results							    
