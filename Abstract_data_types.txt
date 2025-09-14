@@ -1,0 +1,60 @@
+// Abstract Data Types //
+
+
+
+ADT: abstract data types, a data type whose properties(data and operations)
+	are specified independently of aby particular implentation.
+	
+	Note:
+		Reduce complexity through abstraction.
+		Adt's=containers which data is stored, ONLY holds other objects.
+We view data from three perspectives: the application level, the logical level, 
+and the implementation level.
+
+	App: level:
+		object oriented problems.
+
+	Logical level:
+		an abstract view of data values, the domain, and the set of operations
+		to manipulate them. This level represents the classes in the app level,
+		CRC cards.
+	Implementation level:
+		coding of the operations in a programming language, this view see's the
+		properties, repersented a specific data fields & behaviours repersented
+		as methods, implemented as code.	
+
+
+
+	Array-Based, & Linked:
+		In a array based implementation, 1. Put item, 2. Remove item, 3. Get next item,
+		4. More items.
+		The first two are considered transformaer operations, they change the state of the
+		container.
+		The third is an iterator, an operation that allows all access to all of the components
+		one-at-a-time.
+		The fourth is an observer operation: It asks if we have looked at all of the items.
+
+		array-based implementation: homogeneous items, which each items is accessed by their place
+			w/ in the collection called an index. An array based implementation uses an array to
+			store the items in the container. Ordered or unordered list, sorted or unsorted list.
+
+		List:
+			A generic kind of container, made up of length variable, and an array to hold the list items.
+			Starts at 0th position through 1 position.
+
+	FORGETTING THE ARRAY GOES FROM 0 TO MAX_LENGTH-1 IS THE MAJOR REASON FOR ERRORS.
+
+	Linked implementation is based on the concept of a node, a node is made up of two pieces of data: the item the user
+	wants, and the pointer to the next node in the list.
+
+	The last node in the list contains a symbol that means end of the list, usually null.
+	In a linked list we use a variable of the some type as a next part of the node.
+
+	Linked Lists are also unbounded lists, because they created at runtime, the only limit
+	on the # of nodes is the size of memory.					
+
+
+
+
+
+	Linked Implementation
