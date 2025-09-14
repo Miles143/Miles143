@@ -1,0 +1,5 @@
+credfile=GitCred
+112@112-PC MINGW64 ~/DESKTOP/MyGitCredReop (master)
+$ git config --global credentialhelper.cache
+$ git config --global credentialhelper.store
+$ git config --global credentialhelper.usehttppath 

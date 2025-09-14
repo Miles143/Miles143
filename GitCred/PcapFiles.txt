@@ -1,0 +1,15 @@
+!#/bin/bash
+
+import scapy;
+
+$echo on
+
+d = edpcap("tmpfile.pcab")
+d.summary()
+d.show()
+_______
+print(d[0])
+d[0].summary()
+d[0].show()
+__________
+

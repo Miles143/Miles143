@@ -1,0 +1,30 @@
+!#/bin/bash
+
+import scapy;
+
+$echo on 
+
+t = AsyncSniffer()
+t.start()
+print("NikkiBB")
+	<------------Enter
+	<------------Enter
+	<------------Enter
+	<------------Enter
+t.stop()
+_________________________________
+t = AsyncSniffer(iface="enp0s3" count=200)
+t.start()
+t.join()
+results = t.results
+print(len(results))
+_________________________________
+t = AsyncSniffer(prn=lambda x: x.summary(), store=False, filter="tcp")
+t.start()
+time.sleep(30)
+t.stop()
+_________________________________
+sniff(sessio=IPSession,iface="eth1")
+sniff(session=TCPSession, prn=lambda x: x.summary(), store=False)
+sniff(offline="tmp.pcap", session=NerflowSessiom)
+_________________________________

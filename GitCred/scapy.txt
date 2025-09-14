@@ -1,0 +1,17 @@
+!#/bin/bash 
+import scapy;
+
+$echo on
+
+a=IP(ttl=10)
+a
+a.src
+a.dst
+a
+a.dst="www.icloud.com"
+a
+a.src
+del(a.ttl)
+a
+a.ttl
+exit;

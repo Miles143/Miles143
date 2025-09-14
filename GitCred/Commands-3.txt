@@ -1,0 +1,17 @@
+Ether(Ethernet Frame)
+
+src: Source MAC address
+dst: Destination MAC address
+type: EtherType field indicating the type of payload(e.g, IP, IPv6)
+_________________________________________________________________
+IP(Internet Protocol)
+
+src: Source IP address
+dst: Destination IP address
+ttl: Time-to-Live, indicating the maximum number of hops a packet can take.
+proto: Protocol field indicating the type of payload(e.g, TCP, UDP)
+_________________________________________________________________
+TCP, UDP(Transport Layer)
+
+sport: Source port number
+dport: Destination port number

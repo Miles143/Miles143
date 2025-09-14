@@ -1,0 +1,21 @@
+!#/bin/bash
+
+import scapy;
+
+$echo on 
+
+a=IP(dst="www.icloud.com/30")
+a
+[p for p in a]
+b=IP(ttl=[1,2,(5,9)])
+b
+[p for p in b]
+c=TCP(dport=[80,443])
+[p for p in a/c]
+____________________________
+p = PacketList(a)
+p
+p = PacketList([p for p in a/c])
+p
+____________________________
+

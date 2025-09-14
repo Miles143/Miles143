@@ -1,0 +1,47 @@
+Command
+
+Effect
+
+summary()
+
+displays a list of summaries of each packet
+
+nsummary()
+
+same as previous, with the packet number
+
+conversations()
+
+displays a graph of conversations
+
+show()
+
+displays the preferred representation (usually nsummary())
+
+filter()
+
+returns a packet list filtered with a lambda function
+
+hexdump()
+
+returns a hexdump of all packets
+
+hexraw()
+
+returns a hexdump of the Raw layer of all packets
+
+padding()
+
+returns a hexdump of packets with padding
+
+nzpadding()
+
+returns a hexdump of packets with non-zero padding
+
+plot()
+
+plots a lambda function applied to the packet list
+
+make_table()
+
+displays a table according to a lambda function
