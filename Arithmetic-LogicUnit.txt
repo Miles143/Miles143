@@ -1,0 +1,28 @@
+// Arithmetic Logic Unit (ALU) //
+
+
+
+Performs arithmetic operations such as adding, subtracting, multiplication, and 
+dividing to numbers, as well as logical operations such as AND, OR and NOT.
+The ALU  operates on words, the ALU has a small amount of special storage unit 
+call registers. The registers store one word to be needed again immediately.
+
+Ex: 
+	One * (Two + Three) <---- Two is first added to Three then
+				  stored in registers, then the contents
+				  are multiplied by one.
+
+
+// Input/Output Units //
+
+
+Input and Output are the channels the computers communicates with the outside world.
+Input unit: Keyboard, mouse and scanning device, terminal keyboard.
+Output unit: Printer or Video display terminal.
+
+// Control Unit //
+
+The Control Unit is the orgainizing force of the computer used to fetch and execute.
+The instruction register (IR) contains the instruction that is being executed. The
+program counter (PC) contains the next address of the next instruction to be executed.
+**Collectively together called the CPU**

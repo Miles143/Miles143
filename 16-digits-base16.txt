@@ -1,0 +1,24 @@
+// Converting base values to decimal values, then converting Hex number ABC to decimal number, lastly converting a binary (base-2) number to a decimal number. //
+// The answers are as follows: 492, 2748, 86 //
+
+0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+
+7 * (8)2 = 7 * 64 =   448
++ 5 * (8)1 = 5 * 8 =   40
++ 4 * (8)0 = 4 * 1 =    4
+		    		  492
+		    		  
+  A * (16)2 = 10 * 256 = 2560
++ B * (16)1 = 11 * 16  =  176
++ C * (16)0 = 12 * 1   =   12
+			             2748
+			             
+  1 * (2)6 = 1 * 64 = 64
++ 0 * (2)5 = 0 * 32 =  0
++ 1 * (2)4 = 1 * 16 = 16
++ 0 * (2)3 = 0 * 8  =  0
++ 0 * (2)2 = 1 * 4  =  4
++ 1 * (2)1 = 1 * 2  =  2
++ 0 * (2)0 = 0 * 1  =  0
+		              86
+		              abcde

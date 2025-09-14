@@ -1,0 +1,23 @@
+// start at the rightmost binary digit and mark the digits in groups of threes from right to left //
+
+ex:
+
+111	101	100	<- binary grouped into three digits at a time to calculate into octal digits
+___	___	___
+ 7	 5 	 4	<- octal values of above binary
+
+— •   • •   — • —   — • —   • •
+
+example: lets convert the binary number 1010110 to octal and then convert it to decimal. 
+when catagorizing into groups of three you want to count right to left three digits at a time.
+
+1 010 110 <- binary number grouped into three digits at a time from right to left.  
+_ ___ ___
+1  2   6  <- remember this is the octal equvilent(1,2, and 6) Now, -> convert that to decimal.
+
+  1 * (8)2 = 1 * 64 = 64
++ 2 * (8)1 = 2 * 8 =  16
++ 6 * (8)0 = 6 * 1 =   6 
+		              86
+		              
+// the decimal, hex and octal values should be the same for 8-bit, 16-bit, 32-bit, and 64-bit //		              
