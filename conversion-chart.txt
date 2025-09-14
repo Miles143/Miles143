@@ -1,0 +1,14 @@
+// Binary Octal Decimal Hexidecimal Chart //
+*
+Binary		Octal		 Decimal		Hexidecimal
+0			   0				 0      		0
+1			   1 	              1          1
+10			   2				 2      		2
+11			   3				 3		      3
+100			 4			  	4		      4
+101			 5		  		5		      5
+110			 6	  			6		      6
+111			 7  			7		      7
+1000		  10				8		      8
+1001		  11				9		      9
+1010		  12				10		    10
