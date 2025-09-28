@@ -1,0 +1,200 @@
+// Lists and Operations //
+
+
+
+Notes:
+	Three properties characterize lists: The items are homogeneous, 
+	the items are linear, and lists have varying length. By Linear 
+	we mean each item except the first has unique component that 
+	comes before it and each item except the last has a unique 
+	component that comes after it. 
+
+	Special Operations:	
+				Observer: viewing if list is full, empty,...
+				
+	Ex:  
+		// Set length to zero //	<-----Initialize
+ 
+		// Find where item belongs
+		// Put item there
+		// Increment length //	<-----Insert(item)
+
+		// Find the item
+		// Remove the item
+		// Decrement length //	<-----Delete(item)
+
+		// While(more items)
+		// 	Get next item
+		//	Print item //	<-----Print
+
+		// return length //	<-----Know Length
+
+		*********************
+		*********************
+		// Item belongs at length //	<-----Find where the item belongs(Unsorted)
+		
+		// Set tempItem to the first item
+		// While(item.compareTo(tempItem) > 0
+		//	Set tempItem to nextItem
+		// Item belongs at tempItem //	<-----Find where the item belongs(Sorted)
+	
+		// Set tempItem as first item
+		// While(item.compareTo(tempItem) not equal to 0)
+		// 	Set tempItem to nextItem //	<-----Find the item
+
+		// Set tempItem to the first item
+		// While(more items)
+		//	If(tempItem.compareTo(item) is equal to 0)
+		// 		return true
+		// 	Else
+		// 		Set tempItem to next item
+		// Return false //	<-----IsThere(item)
+
+		// Set current to the index of the first in the list
+		// While(not sorted yet)
+		// 	Find the index of the smallest unsorted item
+		// 	Swap the current item with the smallest unsorted one
+		//	Increment current to shrink unsorted part //	<-----Selection Sort
+
+		// current < length -1 //	<-----Not sorted yet
+
+		// Set indexOfSmallest to current
+		// For index going from current +1 to length -1
+		//	If(list[index].compareTo(list[indexOfSmallest]) < 0)
+		//		Set indexOfSmallest to index //	<-----Find the index of the smallest
+		***********************************************
+		***********************************************
+		// Set current to index of the first item in the list 
+		// Do
+		//	Set swap to false
+		//	"Bubble up" the smallest item in unsorted part
+		//	Increment current to shrink the unsorted portion
+		// While(not sorted yet AND swap) //	<----- Bubble sort
+
+		// For index going from length -1 down to current +1
+		// 	If(list[index].compareTo(list[index -1]) < 0)
+		//		Swap list[index] and list[index -1]
+		//		Set swap to true //	<----- Bubble up
+		***********************************
+		***********************************
+		// If(there is more than one item in list[first]..list[last])
+		// Select splitVal
+		// Split the list so that
+		//	list[first]..list[splitPoint-1] <= splitVal
+		//	list[splitPoint] = splitVal
+		//	list[splitPoint+1]..list[last] > splitVal
+		// Quicksort the left half
+		// Quicksort the right half //	<----- Quicksort
+		
+		// Set left to first +1
+		// Set right to last
+		// Do
+		//	Increment left until list[left] > splitVal OR left > right
+		//	Decrement right until list[right] < splitVal Or left > right
+		//	If(left < right)
+		//		Swap list[left] and list[right]
+		// While(left <= right)
+		// Set splitPoint to right
+		// Swap list[first] and list[right] //
+		*************************************
+		*************************************
+		// If(first > last)
+		//	return false
+		// Else
+		//	Set middle to(first + last)/2
+		//	Set result to item.compareTo(list[middle])
+		//	If(result is equal to 0)
+		//		return true
+		//	Else
+		//		If(result < 0)
+		//			Binary Search(first, middle -1)
+		//		Else
+		//			Binary Search(middle +1, last) //	<----- Boolean Binary Search(first, last)
+		*********************************************************
+		*********************************************************
+		// While(more items)
+		//	Get an item
+		//	Push item
+		// While(NOT isEmpty)
+		//	Pop item
+		//	Print item //	<----- Print list
+		*********************
+		*********************
+		// If(current is null)
+		//	return false
+		// Else
+		//	Set result to item.compareTo(info(current))
+		//	If(result is equal to 0)
+		//		return true
+		//	Else
+		//		If(result < 0)
+		//			IsThere(item.left(current))
+		//		Else
+		//			IsThere(item.right(current)) //	<----- Insert(current, item)
+		
+		// If(tree is NOT null)
+		//	Print(left(tree))
+		//	Write Info(tree)
+		//	Print(right(tree))	<----- Print(tree)
+		
+		// If(tree is null)
+		//	return 0
+		// Else
+		//	return Length(left(tree)) +Length(right(tree)) +1 //	<-----Length(tree)
+		************************************************************
+		************************************************************
+	
+	Quicksort:
+		deleveloped by C.A.R Hoare it's easier, and faster to sort two 
+		smaller lists than one.
+	Ex:
+		A-L,
+		M-Z	<-----Breaking a Large List into smaller Lists to sort quicker.
+		
+		Ex:
+			by the development of C.A.R. Hoare then:
+				
+			A-F, G-L
+			then,
+			M-R, S-Z	<-----His idea for this is 
+						to divide and conqure,
+						a recursive strategy.	
+
+	In Binary trees':
+			
+                                             
+
+	From a computing perspective a binary tree is a container object in which each node is 	capable of having two successor nodes, called children, each child can have up to two 	child nodes, and those can have two child nodes, in this repersentation, at the top of the 	heirarchy ie: 1 is the root node. The external pointer tree points to the root node in the 	tree. The node to the left is called left child, same as right child to the right. The right 	child to the right. The right child contains the value 3, the root node is the parent node 	containing 2 and 3, each child node that has a child is a root node.
+
+	
+ 
+
+The level of the node refers to it's distance from the root. If we designate the level of the root  as 0(zero), the nodes containing 2, 3 are level, 4,5,6 are level 2 nodes, & 7,8,9,10 are level3 nodes.
+Because we are refferring to to a binary tree, the maximum # of nodes at any level N is 2?
+The maximum # of nodes in a tree of height N is 2? -1
+If we fill the tree by giving every node in each level 2 children until we ran out of nodes the tree has log?N+1
+
+	Ex:	
+		// draw "full trees" with 8 [log?(8)=3], and with 16 [log?(16)=4]
+ 
+
+Graphs:
+	A node without restriction that each node may only have one parent node, we a data structure called a 
+	graph. A graph is made up of a set of nodes, called vertices, and a set of lines called edges(or arcs)	that connect the nodes. 
+	
+	The vertices in a graph repersent objects, and the edges describe relationships among the vertices.
+
+	The edges in a graph that have no direction, This is called an undirected graph. A graph whose edges
+	are directed from on vertex to another is called a directed graph or a digraph. 
+	
+	However, mathematically vertices are the undefined concept upon which theory exists.
+	
+	Abstract Data Types:
+		Array based=objects stored in an array.
+		Linked=each object contains directions to the next object.
+	
+	Lists, stacks, queues, trees, and graphs are useful container ADT's, each ADT has it's own defining 	property & the operations that guarantee that property.
+
+	All of these have operations to insert & to delete.
+	Lists, trees have operations to find items.
+		 
