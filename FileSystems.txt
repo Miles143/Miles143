@@ -1,0 +1,71 @@
+// File Systems, Text and Binary, File Access, Disk Scheduling //
+//John Backus FORTRAN 1953(Lang for scientists and engineers),
+	created the notation Backus-Naur Form(describes
+	grammatical rules fr high-level lang's)//
+
+File System
+Notes:
+	A file is a named collection of related data. A file is the smallest amount 
+	of data that can be written to secondary memory. The file system is the 
+	organization of the the collection of files, while grouping them is called a
+	directory. Each diretory contains a table that records info about the files.
+	Some files have a rigid format, while others are more flexible.	A file must 
+	be opened before rw properties are preformed. At any point and time an open 
+	file has a current file pointer(an address) indicating the place where the 
+	next rw operation should occur. Reading a file the means the os dilivers a
+	copy of the info in the file, starting at the current file pointer. After rw
+	occurs the file pointer is updated. Appending info to the end of a file, 
+	requires that the file pointer be positioned at the end of a file, Trunicating
+	(deleting) the contents of a file without removing the administrative entries
+	 in the file tables. 
+	********************
+
+Disk Scheduling/
+	CPU Scheduling 
+Notes:
+	Latency: the additional time it takes the platter to rotate into the proper
+	position so that the info can be read/written, seek time: the amount of time
+	it takes for the heads to reach the appropriate cylinder. SCAN: the read/write
+	heads move toward the spindle. Circular SCAN: algorithm, when it reaches one extreme
+	it returns all the way back. LOOK disk-scheduling: alorithm looks ahead to see whether
+	the heads should continue in the current direction.
+
+Directories
+Notes:
+	The directory must be able to list all the files in the directory. Also a 
+	directory must be able to reflect(table) the relationships amongst. 
+	
+	Directory Trees
+	Notes:
+		First a Parent Directory, then subdirectory(nested directories) thus
+		creating a heiracrchy structure, mostly viewed as a directory tree,
+		with the highest level called a root directory. The idea of containment
+		is when the analogy of folders to repersent the directory structure, 
+		promoting the ideal of containment. Files in different directories
+		may have the same name, but may not contain the same data. 		<-----note*
+
+		Path names
+		Notes:
+			We must be able to specify file locations using text, this is important
+			because of instructions stored in batch command files. To actually indicate
+//			a file using text we specify the file's path(absolute: '\' begins at root, or 						//
+//			relative: '/' current working directory)(in most os' '..' is used to specify						//
+//			the parent directory, and '.' is used to specify the current working directory)						//
+		
+Text and Binary
+Notes:
+	Broadly, all files can be classified as either text or binary. In a text file
+	the bytes are data, either ASCII or Unicode mostly. A file no matter the type
+	must specifically be interpreted individually. A information is stored as binary
+	digits, usually chunks of 8 or 16 bits, interpreted as characters, or possibly
+	another special format. Some info lends itself as character repersentation, usually
+	making the format Plaintext or readable. A program written in a high-level language 
+	is stored as a 	text file(source file), may also use: txt, cpp, c, java.
+
+File Access
+Notes:
+	Two primary access techniques: sequencial access, and direct access. Sequencial
+	access views a file as a linear structure, and info processed in order. Direct
+	access are conceptually divided into numbered logical records.
+
+	
