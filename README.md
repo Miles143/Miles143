@@ -1,7 +1,8 @@
-# Mile143
+#Miles143 #Bible #Charity
+This Page is a Non-profit organization page, we've spent much of our time building from the ground up, our Foundation is key here. We are a religious based non-profit organization, that provides help successfully gaining housing, whether temporary or permanent, we feed the homeless with care packages throughout the city, and on sunday at 3pm at 132 Leota St Indianapolis, IN 46202 working closely with our friends from Meet Me Under The Bridge, we also help with clothing whenever possible. We do accept donations which can be sent to Patrick Michael McMahon Corp. Feel free to email/: omnibus19apnea@icloud.com
+
 THIS IS STRICTLY FOR PURPOSES OF THE CREATOR AND FAMILY OF, THIS IS PARTIAL TO THE LICENSE CREATED FOR THIS "APP, PC, TELEPHONE, TELEPHONE NUMBER, AND ASSORTED USB DEVICES, OWNED AND OPPERARTED BY THE CREATOR (PMM). 
 THE PURPOSE OF THIS AND INCLUDED FILES IS AT/FOR THE CREATORS DISCRESSION.
 23JAN2023 Patrick Michael McMahon. REFER TO LICENSE LAST DATED. This Is Strictly For the Creator and Family of, if interested please contact the creator and Mr.Patrick Michael McMahon would/will be glad to assist in and or about any matters concerning this file and included files pertaining and but not limited to the License Key, this key is NOT for Duplication Purposes, NOR is THIS Key for SALE OR DISTRIBUTION.
 A Key can be made if contacted appropraitely. PLEASE REFER TO THIS LAST DATED LICENSE AS A GUIDE OR "CODE OF CONDUCT" Have a Great Day and Than You for checking out my GitHub Page. #Bible
 <img width="336" height="73" alt="image" src="https://github.com/user-attachments/assets/02feb0b0-d572-4d07-9a29-3f1de2418a02" />
-
