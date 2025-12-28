@@ -6,8 +6,12 @@ This is for non-profit purposes and for the benefit of the beneficiary dignified
 23JAN2023 Patrick Michael McMahon. REFER TO LICENSE LAST DATED. PLEASE REFER TO ## Example Shortform License: AS A GUIDE OR "CODE OF CONDUCT" Have a Great Day and Than You for checking out my GitHub Page. #Bible
 <img width="336" height="73" alt="image" src="https://github.com/user-attachments/assets/02feb0b0-d572-4d07-9a29-3f1de2418a02" />
 ## Contact Info
--Patrick Michael McMahon
--omnibus19apnea@icloud.com
+-name
+Patrick Michael McMahon
+-youtube
+@PatrickMcMahon07734
+-email
+omnibus19apnea@icloud.com
 ## WE ACCEPT DONATIONS
 -Venmo:@PatrickMichaelMcMahon
 -Cashapp:$Mc9c
