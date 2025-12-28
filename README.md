@@ -10,7 +10,8 @@ This is for non-profit purposes and for the benefit of the beneficiary dignified
 -omnibus19apnea@icloud.com
 
 ## WE ACCEPT DONATIONS:
-
+Venmo: @PatrickMichaelMcMahon
+Cashapp: $Mc9c
 
 
 
