@@ -13,8 +13,10 @@ Patrick Michael McMahon
 -email
 omnibus19apnea@icloud.com
 ## WE ACCEPT DONATIONS
--Venmo:@PatrickMichaelMcMahon
--Cashapp:$Mc9c
+-Venmo
+@PatrickMichaelMcMahon
+-Cashapp
+$Mc9c
 
 
 
