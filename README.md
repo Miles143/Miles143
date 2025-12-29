@@ -13,10 +13,10 @@ This is for non-profit purposes and for the benefit of the beneficiary dignified
 Patrick Michael McMahon
 -youtube
 @PatrickMcMahon07734
-0x10-email
+0x10,-email
 omnibus19apnea@icloud.com
 ## WE ACCEPT DONATIONS
-0x20-Venmo
+0x20,-Venmo
 @PatrickMichaelMcMahon
 0x30-Cashapp
 $Mc9c
