@@ -1,5 +1,5 @@
 #Miles143 #Bible #Charity
-# Organization Guidelines -💙 Our Mission
+# Organization Guidelines -💜 Our Mission
 This Page is a Non-profit organization page, we've spent much of our time building from the ground up, our Foundation is key here. We are a religious based non-profit organization, that provides help successfully gaining housing, whether temporary or permanent, we feed the homeless with care packages throughout the city, and on sunday at 3pm at 132 Leota St Indianapolis, IN 46202 working closely with our friends from Meet Me Under The Bridge to provide a warm meal to the homeless community, we also help with clothing whenever possible. Most of this is provided by our local churches and our own familes, by providing time doing community work/activities, We also work closely with our local food pantries(Ex:Humble Love, Humble Impressions) We do accept donations which can be sent to Patrick Michael McMahon Corp. We are a Licensed Domestic Non-profit Organization, all proceeds will be used appropriately and most efficiently, we are contracted with American Registry for Internet Numbers. Feel free to email/: omnibus19apnea@icloud.com
 
 ## Some Items You Could Donate -📦 Care package donation suggestions
