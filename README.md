@@ -7,16 +7,17 @@ Baby wipes, toiletries, clothing, anything we could use to make care packages.
 This is for non-profit purposes and for the benefit of the beneficiary dignified by Patrick Michael McMahon. Patrick Michael McMahon is not obligated to do any business and all business is done out of kindness, OUR telephone, telephone numbers, emails, addresses, and storage including random access memory, is not for sale, nor to be use or distributed by ANYONE. All radiowaves, radio signals and radio frequencies are private and for the use of Patrick Michael McMahon and Patrick Michael McMahon Corp. Only, all others must email for permission. Not for duplication purposes or resale, or remanufacture/redistribution.
 23JAN2023 Patrick Michael McMahon. REFER TO LICENSE LAST DATED. PLEASE REFER TO ## Example Shortform License: AS A GUIDE OR "CODE OF CONDUCT". #Bible #Charity
 <img width="336" height="73" alt="image" src="https://github.com/user-attachments/assets/02feb0b0-d572-4d07-9a29-3f1de2418a02" />
+<span style="display:none;">
 ## Contact Info
 -name
 Patrick Michael McMahon
 -youtube
 @PatrickMcMahon07734
--email
+0x10-email
 omnibus19apnea@icloud.com
 ## WE ACCEPT DONATIONS
--Venmo
+0x20-Venmo
 @PatrickMichaelMcMahon
--Cashapp
+0x30-Cashapp
 $Mc9c
-
+</span>
