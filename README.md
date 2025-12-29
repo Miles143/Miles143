@@ -20,3 +20,6 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 @PatrickMichaelMcMahon<!-- 0x30 -->
 -Cashapp
 $Mc9c<!-- 0x50 -->
+![Helping the Homeless](https://img.shields.io/badge/Goal-Feed%20the%20Homeless-blue)
+![Open Source](https://img.shields.io/badge/Open%20Source-No-red)
+![Donations](https://img.shields.io/badge/Donations-Coming%20Soon-orange)
