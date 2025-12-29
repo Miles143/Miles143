@@ -20,14 +20,3 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 @PatrickMichaelMcMahon<!-- 0x30 -->
 -Cashapp
 $Mc9c<!-- 0x50 -->
-<div align="center">
-
-<svg width="120" height="120" viewBox="0 0 100 100">
-  <!-- vertical bar -->
-  <rect x="45" y="10" width="10" height="80" fill="#cc0000"/>
-
-  <!-- horizontal bar -->
-  <rect x="20" y="45" width="60" height="10" fill="#cc0000"/>
-</svg>
-
-</div>
