@@ -20,14 +20,3 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 @PatrickMichaelMcMahon<!-- 0x30 -->
 -Cashapp
 $Mc9c<!-- 0x50 -->
-<div align="center">
-
-<svg width="100%" height="220" viewBox="0 0 100 30" preserveAspectRatio="none">
-  <!-- back layer -->
-  <polygon points="0,0 100,0 100,30 0,25" fill="#f2f2f2"/>
-
-  <!-- front angled layer -->
-  <polygon points="0,5 100,0 100,30 0,30" fill="#e6e6e6"/>
-</svg>
-
-</div>
