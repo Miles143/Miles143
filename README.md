@@ -11,12 +11,12 @@ This is for non-profit purposes and for the benefit of the beneficiary dignified
 
 <img width="336" height="73" alt="image" src="https://github.com/user-attachments/assets/02feb0b0-d572-4d07-9a29-3f1de2418a02" />
 
-## Contact Info
-### name
+# Contact Info
+### Name
 Patrick Michael McMahon
-### youtube
+### Youtube
 @PatrickMcMahon07734<!-- 0x10 -->
-### email
+### Email
 omnibus19apnea@icloud.com<!-- 0x20 -->
 ## WE ACCEPT DONATIONS
 # Venmo
