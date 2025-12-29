@@ -23,15 +23,11 @@ $Mc9c<!-- 0x50 -->
 <div align="center">
 
 <svg width="100%" height="220" viewBox="0 0 100 30" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="bg" gradientTransform="rotate(45)">
-      <stop offset="0%" stop-color="#f5f5f5"/>
-      <stop offset="50%" stop-color="#ededed"/>
-      <stop offset="100%" stop-color="#e3e3e3"/>
-    </linearGradient>
-  </defs>
+  <!-- back layer -->
+  <polygon points="0,0 100,0 100,30 0,25" fill="#f2f2f2"/>
 
-  <polygon points="0,0 100,0 100,25 0,30" fill="url(#bg)" />
+  <!-- front angled layer -->
+  <polygon points="0,5 100,0 100,30 0,30" fill="#e6e6e6"/>
 </svg>
 
 </div>
