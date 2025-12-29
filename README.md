@@ -20,20 +20,14 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 @PatrickMichaelMcMahon<!-- 0x30 -->
 -Cashapp
 $Mc9c<!-- 0x50 -->
-body {
-  margin: 0;
-  min-height: 100vh;
+<div align="center">
 
-  background:
-    linear-gradient(
-      135deg,              /* angle down to the right */
-      #f5f5f5 0%,
-      #f5f5f5 40%,
-      #e9e9e9 40%,
-      #e9e9e9 70%,
-      #dedede 70%,
-      #dedede 100%
-    );
+<svg width="120" height="120" viewBox="0 0 100 100">
+  <!-- vertical bar -->
+  <rect x="45" y="10" width="10" height="80" fill="#cc0000"/>
 
-  font-family: sans-serif;
-}
+  <!-- horizontal bar -->
+  <rect x="20" y="45" width="60" height="10" fill="#cc0000"/>
+</svg>
+
+</div>
