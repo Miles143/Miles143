@@ -14,12 +14,12 @@ This is for non-profit purposes and for the benefit of the beneficiary dignified
 # Contact Info
 Name
 Patrick Michael McMahon
-Youtube
+Youtube 📺
 @PatrickMcMahon07734<!-- 0x10 -->
-Email
+Email 💬
 omnibus19apnea@icloud.com<!-- 0x20 -->
-## WE ACCEPT DONATIONS
-## Venmo
+## WE ACCEPT DONATIONS -🤝❤️
+## Venmo 
 @PatrickMichaelMcMahon<!-- 0x30 -->
 ## Cashapp
 $Mc9c<!-- 0x50 -->
