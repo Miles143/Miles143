@@ -20,4 +20,18 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 @PatrickMichaelMcMahon<!-- 0x30 -->
 -Cashapp
 $Mc9c<!-- 0x50 -->
+<div align="center">
 
+<svg width="100%" height="220" viewBox="0 0 100 30" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="bg" gradientTransform="rotate(45)">
+      <stop offset="0%" stop-color="#f5f5f5"/>
+      <stop offset="50%" stop-color="#ededed"/>
+      <stop offset="100%" stop-color="#e3e3e3"/>
+    </linearGradient>
+  </defs>
+
+  <polygon points="0,0 100,0 100,25 0,30" fill="url(#bg)" />
+</svg>
+
+</div>
