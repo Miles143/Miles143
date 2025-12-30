@@ -39,3 +39,8 @@ document.addEventListener('mousemove', e => {
   dot.style.top = e.clientY + 'px';
 }); -->
 </div>
+<div id="© 2025 Patrick Michael McMahon. All rights reserved.">
+  <!-- document.querySelectorAll('*').forEach(el => {
+  el.style.transitionDuration = '5s';
+}); -->
+</div>
