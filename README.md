@@ -31,22 +31,11 @@ $Mc9c<!-- 0x50 -->
 }); -->
 </div>
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
-  <!-- function createConfetti() {
-  let confetti = document.createElement('div');
-  confetti.style.position = 'absolute';
-  confetti.style.width = '10px';
-  confetti.style.height = '10px';
-  confetti.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
-  confetti.style.top = `${Math.random() * window.innerHeight}px`;
-  confetti.style.left = `${Math.random() * window.innerWidth}px`;
-  confetti.style.animation = 'fall 2s forwards';
-  document.body.appendChild(confetti);
-
-  confetti.addEventListener('animationend', () => {
-    confetti.remove();
-  });
-}
-
-let confettiInterval = setInterval(createConfetti, 100);
-setTimeout(() => clearInterval(confettiInterval), 5000); -->
+  <!-- let dot = document.createElement('div');
+dot.style.cssText = 'position:fixed;width:10px;height:10px;border-radius:50%;background:red;pointer-events:none;z-index:9999;';
+document.body.appendChild(dot);
+document.addEventListener('mousemove', e => {
+  dot.style.left = e.clientX + 'px';
+  dot.style.top = e.clientY + 'px';
+}); -->
 </div>
