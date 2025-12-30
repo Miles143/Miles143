@@ -24,3 +24,19 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 ## Cashapp
 $Mc9c<!-- 0x50 -->
 
+<button id="toggleBtn">Show info</button>
+
+<div id="hiddenInfo" style="display:none;">
+  This information is hidden until clicked.
+</div>
+
+<script>
+  const btn = document.getElementById("toggleBtn");
+  const info = document.getElementById("hiddenInfo");
+
+  btn.addEventListener("click", () => {
+    const isHidden = info.style.display === "none";
+    info.style.display = isHidden ? "block" : "none";
+    btn.textContent = isHidden ? "Hide info" : "Show info";
+  });
+</script>
