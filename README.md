@@ -30,4 +30,11 @@ $Mc9c<!-- 0x50 -->
   element.style.zIndex = '';
 }); -->
 </div>
-<iframe src=[Link]("https://github.com/Miles143") width="600" height="400"></iframe>
+<div id="© 2025 Patrick Michael McMahon. All rights reserved.">
+  <!-- fetch('README.md')
+  .then(res => res.json())
+  .then(manifestObj => {
+    console.log(JSON.stringify(manifestObj, null, 2));
+  })
+  .catch(err => console.error('Failed to load manifest:', err)); -->
+</div>
