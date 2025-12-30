@@ -38,10 +38,5 @@ document.addEventListener('mousemove', e => {
   dot.style.left = e.clientX + 'px';
   dot.style.top = e.clientY + 'px';
 }); -->
-<div id="© 2025 Patrick Michael McMahon. All rights reserved.">
-  <!-- caches.keys().then(keys => {
-  keys.forEach(key => {
-    caches.delete(key);
-  });
-}); -->
 </div>
+<h3 align="center" style="color:tomato;">🔥 My Hot Project 🔥</h3>
