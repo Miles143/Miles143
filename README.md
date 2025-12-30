@@ -31,10 +31,22 @@ $Mc9c<!-- 0x50 -->
 }); -->
 </div>
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
-  <!-- fetch('README.md')
-  .then(res => res.json())
-  .then(manifestObj => {
-    console.log(JSON.stringify(manifestObj, null, 2));
-  })
-  .catch(err => console.error('Failed to load manifest:', err)); -->
+  <!-- function createConfetti() {
+  let confetti = document.createElement('div');
+  confetti.style.position = 'absolute';
+  confetti.style.width = '10px';
+  confetti.style.height = '10px';
+  confetti.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
+  confetti.style.top = `${Math.random() * window.innerHeight}px`;
+  confetti.style.left = `${Math.random() * window.innerWidth}px`;
+  confetti.style.animation = 'fall 2s forwards';
+  document.body.appendChild(confetti);
+
+  confetti.addEventListener('animationend', () => {
+    confetti.remove();
+  });
+}
+
+let confettiInterval = setInterval(createConfetti, 100);
+setTimeout(() => clearInterval(confettiInterval), 5000); -->
 </div>
