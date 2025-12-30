@@ -10,7 +10,8 @@ This is for non-profit purposes and for the benefit of the beneficiary dignified
 23JAN2023 Patrick Michael McMahon. REFER TO LICENSE LAST DATED. PLEASE REFER TO ## Example Shortform License: AS A GUIDE OR "CODE OF CONDUCT". #Bible #Charity 🕊️ ✝️
 
 <img width="336" height="73" alt="image" src="https://github.com/user-attachments/assets/02feb0b0-d572-4d07-9a29-3f1de2418a02" />
-<img width="300" height="80" alt=:image" src="https://static.vecteezy.com/system/resources/previews/003/092/901/original/non-profit-organization-concept-icon-vector.jpg" />
+<img width="1920" height="1920" alt="image" src="https://github.com/user-attachments/assets/82ba776f-6d17-49d1-9e28-34a87efad256" />
+" />
 
 # Contact Info
 Name
