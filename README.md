@@ -24,14 +24,8 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 ## Cashapp
 $Mc9c<!-- 0x50 -->
 
-<div style="display:flex; gap:20px;">
-  <div style="flex:1;">
-    <h3>Left Sidebar</h3>
-    <p>Content or links here</p>
-  </div>
-  <div style="flex:2;">
-    <h3>Main Content</h3>
-    <p>Details here</p>
-  </div>
-</div>
+<audio controls>
+  <source src="Downloads\Bach 01-Ouverture No. 4 in D Major, BWV 1069 V. Réjouissance.mp3" type="audio/mpeg" />
+  Your browser does not support the audio element.
+</audio>
 © 2025 Patrick Michael McMahon. All rights reserved.
