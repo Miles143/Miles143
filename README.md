@@ -24,13 +24,12 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 ## Cashapp
 $Mc9c<!-- 0x50 -->
 
-setInterval(() => {
-  const el = Array.from(document.querySelectorAll('p, div, span')).find(el =>
-    el.textContent.includes('Your clock is')
-  );
-  if (el) {
-    const drift = el.textContent.trim();
-    console.log(`[${new Date().toLocaleTimeString()}] ${drift}`);
-  }
-}, 5000);
-© 2025 Patrick Michael McMahon. All rights reserved.
+
+
+<div id="© 2025 Patrick Michael McMahon. All rights reserved.">
+  <!-- if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.ready.then(function(registration) {
+    registration.update();  // Forces an update of the service worker
+  });
+} -->
+</div>
