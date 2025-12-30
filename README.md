@@ -24,17 +24,4 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 ## Cashapp
 $Mc9c<!-- 0x50 -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-© 2025 Patrick Michael McMahon. All rights reserved.*
+© 2025 Patrick Michael McMahon. All rights reserved.
