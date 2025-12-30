@@ -39,4 +39,3 @@ document.addEventListener('mousemove', e => {
   dot.style.top = e.clientY + 'px';
 }); -->
 </div>
-<h3 align="center" style="color:tomato;">🔥 My Hot Project 🔥</h3>
