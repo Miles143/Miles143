@@ -8,7 +8,7 @@ Baby wipes, toiletries, clothing, anything we could use to make care packages.
 ## Example Shortform License
 This is for non-profit purposes and for the benefit of the beneficiary dignified by Patrick Michael McMahon. Patrick Michael McMahon is not obligated to do any business and all business is done out of kindness, OUR telephone, telephone numbers, emails, addresses, and storage including random access memory, is not for sale, nor to be use or distributed by ANYONE. All radiowaves, radio signals and radio frequencies are private and for the use of Patrick Michael McMahon and Patrick Michael McMahon Corp. Only, all others must email for permission. Not for duplication purposes or resale, or remanufacture/redistribution. This page, data, data-bits, bytes, encryption/psuedo-encryption, is not open source.
 23JAN2023 Patrick Michael McMahon. REFER TO LICENSE LAST DATED. PLEASE REFER TO ## Example Shortform License: AS A GUIDE OR "CODE OF CONDUCT". #Bible #Charity 🕊️ ✝️
-<img width="336" height="73" alt="image" src="[https://github.com/user-attachments/assets/02feb0b0-d572-4d07-9a29-3f1de2418a02](https://www.redcross.org/content/dam/redcross/red-cross-logos/new-red-cross-logo-en.png.img.png)" />
+<img width="336" height="73" alt="image" src="https://github.com/user-attachments/assets/02feb0b0-d572-4d07-9a29-3f1de2418a02" />
 
 # Contact Info
 Name
