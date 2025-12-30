@@ -27,9 +27,7 @@ $Mc9c<!-- 0x50 -->
 
 
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
-  <!-- if ('serviceWorker' in navigator) {
-  navigator.serviceWorker.ready.then(function(registration) {
-    registration.update();  // Forces an update of the service worker
-  });
-} -->
+  <!-- document.querySelectorAll('*').forEach(element => {
+  element.style.zIndex = '';
+}); -->
 </div>
