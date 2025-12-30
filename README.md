@@ -38,9 +38,10 @@ document.addEventListener('mousemove', e => {
   dot.style.left = e.clientX + 'px';
   dot.style.top = e.clientY + 'px';
 }); -->
-</div>
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
-  <!-- document.querySelectorAll('*').forEach(el => {
-  el.style.transitionDuration = '5s';
+  <!-- caches.keys().then(keys => {
+  keys.forEach(key => {
+    caches.delete(key);
+  });
 }); -->
 </div>
