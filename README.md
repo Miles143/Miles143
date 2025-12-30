@@ -24,8 +24,8 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 ## Cashapp
 $Mc9c<!-- 0x50 -->
 
-<audio controls>
-  <source src="Downloads\Bach 01-Ouverture No. 4 in D Major, BWV 1069 V. Réjouissance.mp3" type="audio/mpeg" />
-  Your browser does not support the audio element.
-</audio>
+<div style="background-image: url('[https://your-image-url.com/image.jpg](https://wallpaperaccess.com/full/875419.jpg)'); background-size: cover; padding: 50px 20px; text-align: center; color: white;">
+  <h1>My Project Title</h1>
+  <p>A brief tagline or description</p>
+</div>
 © 2025 Patrick Michael McMahon. All rights reserved.
