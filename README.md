@@ -24,4 +24,14 @@ omnibus19apnea@icloud.com<!-- 0x20 -->
 ## Cashapp
 $Mc9c<!-- 0x50 -->
 
+<div style="display:flex; gap:20px;">
+  <div style="flex:1;">
+    <h3>Left Sidebar</h3>
+    <p>Content or links here</p>
+  </div>
+  <div style="flex:2;">
+    <h3>Main Content</h3>
+    <p>Details here</p>
+  </div>
+</div>
 © 2025 Patrick Michael McMahon. All rights reserved.
