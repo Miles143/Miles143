@@ -24,6 +24,7 @@ Email 💬
 ## Cashapp
 <span>$Mc9c</span><!-- 0x50 -->
 
+<!DOCTYPE>
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
   <!-- document.querySelectorAll('*').forEach(element => {
   element.style.zIndex = '';
