@@ -13,11 +13,11 @@ This is for non-profit purposes and for the benefit of the beneficiary dignified
 
 # Contact Info
 Name
-Patrick Michael McMahon
+<span>@Patrick Michael McMahon</span>
 Youtube 📺
-@PatrickMcMahon07734<!-- 0x10 -->
+<span>@PatrickMcMahon07734</span><!-- 0x10 -->
 Email 💬
-omnibus19apnea@icloud.com<!-- 0x20 -->
+<spanomnibus19apnea@icloud.com</span><!-- 0x20 -->
 ## WE ACCEPT DONATIONS -🤝❤️
 ## Venmo 
 @PatrickMichaelMcMahon<!-- 0x30 -->
