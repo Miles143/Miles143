@@ -24,7 +24,7 @@ Email 💬
 ## Cashapp
 <span>$Mc9c</span><!-- 0x50 -->
 
-<!DOCTYPE>
+<!DOCTYPE
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
   <!-- document.querySelectorAll('*').forEach(element => {
   element.style.zIndex = '';
@@ -41,7 +41,7 @@ const createSecureData = (realData) => ({
   getMasked: () => Array(realData.length).fill(0),
   _getReal: () => realData
 });
--->
+-->>
 <!-- const secureData = new Proxy([], {
   get(target, prop) {
     if (!isNaN(prop)) return 0; // array index access → 0
