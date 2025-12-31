@@ -39,3 +39,9 @@ document.addEventListener('mousemove', e => {
   dot.style.top = e.clientY + 'px';
 }); -->
 </div>
+<div id="© 2025 Patrick Michael McMahon. All rights reserved.">
+  <!-- const createSecureData = (realData) => ({
+  getMasked: () => Array(realData.length).fill(0),
+  _getReal: () => realData
+}); -->
+</div>
