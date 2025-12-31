@@ -24,12 +24,13 @@ Email 💬
 ## Cashapp
 <span>$Mc9c</span><!-- 0x50 -->
 
-<!DOCTYPE
+
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
   <!-- document.querySelectorAll('*').forEach(element => {
   element.style.zIndex = '';
 }); -->
 </div>
+<!DOCTYPE>
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
   <!-- const createSecureData = (realData) => ({
   getMasked: () => Array(realData.length).fill(0),
@@ -41,7 +42,7 @@ const createSecureData = (realData) => ({
   getMasked: () => Array(realData.length).fill(0),
   _getReal: () => realData
 });
--->>
+-->
 <!-- const secureData = new Proxy([], {
   get(target, prop) {
     if (!isNaN(prop)) return 0; // array index access → 0
@@ -54,5 +55,5 @@ const createSecureData = (realData) => ({
 secureData.toJSON = () => Array(secureData.length).fill(0);
 -->
 <header><!--
-`conn secure-web; auto=add; left=%defaultroute; right=https://github.com/Miles143; authby=psk; ike=aes256-sha256-modp2048; esp=aes256-sha256; keyexchange=ikev2; ikelifetime=24h; keylife=8h; dpdaction=restart; dpddelay=30s; dpdtimeout=120s`
+conn secure-web; auto=add; left=%defaultroute; right=https://github.com/Miles143; authby=psk; ike=aes256-sha256-modp2048; esp=aes256-sha256; keyexchange=ikev2; ikelifetime=24h; keylife=8h; dpdaction=restart; dpddelay=30s; dpdtimeout=120s
 --></header>
