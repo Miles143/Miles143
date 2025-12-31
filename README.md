@@ -52,6 +52,6 @@ const createSecureData = (realData) => ({
 <!--
 secureData.toJSON = () => Array(secureData.length).fill(0);
 -->
-<!--
+<header>
 speechSynthesis.speak(new SpeechSynthesisUtterance("Hello there, Welcome to Patrick Michael McMahon's Page!"));
--->
+</header>
