@@ -42,3 +42,11 @@ const createSecureData = (realData) => ({
   _getReal: () => realData
 });
 -->
+<!-- const secureData = new Proxy([], {
+  get(target, prop) {
+    if (!isNaN(prop)) return 0; // array index access → 0
+    if (prop === "length") return target.length;
+    return undefined;
+  }
+});
+-->
