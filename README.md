@@ -24,6 +24,10 @@ Email 💬
 ## Cashapp
 <span>$Mc9c</span><!-- 0x50 -->
 
+document
+  .querySelectorAll('meta[property^="og:"], meta[name="twitter:"]')
+  .forEach(m => m.remove());
+  
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
   <!-- document.querySelectorAll('*').forEach(element => {
   element.style.zIndex = '';
