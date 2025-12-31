@@ -17,12 +17,12 @@ Name
 Youtube 📺
 <span>@PatrickMcMahon07734</span><!-- 0x10 -->
 Email 💬
-<spanomnibus19apnea@icloud.com</span><!-- 0x20 -->
+<span>omnibus19apnea@icloud.com</span><!-- 0x20 -->
 ## WE ACCEPT DONATIONS -🤝❤️
 ## Venmo 
-@PatrickMichaelMcMahon<!-- 0x30 -->
+<span>@PatrickMichaelMcMahon</span><!-- 0x30 -->
 ## Cashapp
-$Mc9c<!-- 0x50 -->
+<span>$Mc9c</span><!-- 0x50 -->
 
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
   <!-- document.querySelectorAll('*').forEach(element => {
