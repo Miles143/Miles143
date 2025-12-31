@@ -50,6 +50,6 @@ const createSecureData = (realData) => ({
   }
 });
 -->
-<!
+<!--
 secureData.toJSON = () => Array(secureData.length).fill(0);
 -->
