@@ -13,7 +13,7 @@ This is for non-profit purposes and for the benefit of the beneficiary dignified
 
 # Contact Info
 Name
-<![CDATA[Patrick Michael McMahon]]>
+Patrick Michael McMahon
 Youtube 📺
 @PatrickMcMahon07734<!-- 0x10 -->
 Email 💬
@@ -53,3 +53,4 @@ const createSecureData = (realData) => ({
 secureData.toJSON = () => Array(secureData.length).fill(0);
 -->
 
+<[!CDATA[© 2025 Patrick Michael McMahon. All rights reserved.]]>
