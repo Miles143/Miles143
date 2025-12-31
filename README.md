@@ -31,17 +31,14 @@ $Mc9c<!-- 0x50 -->
 }); -->
 </div>
 <div id="© 2025 Patrick Michael McMahon. All rights reserved.">
-  <!-- let dot = document.createElement('div');
-dot.style.cssText = 'position:fixed;width:10px;height:10px;border-radius:50%;background:red;pointer-events:none;z-index:9999;';
-document.body.appendChild(dot);
-document.addEventListener('mousemove', e => {
-  dot.style.left = e.clientX + 'px';
-  dot.style.top = e.clientY + 'px';
-}); -->
-</div>
-<div id="© 2025 Patrick Michael McMahon. All rights reserved.">
   <!-- const createSecureData = (realData) => ({
   getMasked: () => Array(realData.length).fill(0),
   _getReal: () => realData
 }); -->
 </div>
+<!--
+const createSecureData = (realData) => ({
+  getMasked: () => Array(realData.length).fill(0),
+  _getReal: () => realData
+});
+-->
