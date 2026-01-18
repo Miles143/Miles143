@@ -1,0 +1,34 @@
+{
+  "schema_version": 2,
+  "build_tag": "bible",
+
+  "description": "Compact Bible binary artifact",
+
+  "artifact": {
+    "file": "compact_bible.bin",
+    "role": "data",
+    "required": true
+  },
+
+  "verification": {
+    "format": "fixed-sequence",
+    "values": {
+      "signature": 536936448,
+      "version_major": 8,
+      "version_minor": 2048,
+      "entry_count": 1225476106,
+      "flags": 1116228107
+    },
+    "stability": "frozen-after-v2",
+    "notes": [
+      "These values are extracted from the first 16 bytes of the binary artifact.",
+      "This block is now frozen and must not change without a schema version bump."
+    ]
+  },
+
+  "constraints": [
+    "The artifact represents the completed, concatenated compact binary.",
+    "No internal composition, padding, or flash placement behavior is implied.",
+    "Consumers must not rely on this file for binary parsing; it is descriptive metadata only."
+  ]
+}
