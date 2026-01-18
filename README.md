@@ -39,6 +39,18 @@ Email 💬
 }); -->
 </div>
 <!--
+<script>
+fetch("/data/your_bible.json")
+  .then(res => res.json())
+  .then(data => {
+    document.querySelectorAll("bible").forEach(el => {
+      const key = el.textContent.trim();
+      el.textContent = data[key] || key;
+    });
+  });
+</script>
+-->
+<!--
 const createSecureData = (realData) => ({
   getMasked: () => Array(realData.length).fill(0),
   _getReal: () => realData
