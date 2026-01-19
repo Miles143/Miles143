@@ -40,7 +40,7 @@ Email 💬
 </div>
 <!--
 <script>
-fetch("/data/your_bible.json")
+fetch("/data/Miles143/authority_bible.txt.json")
   .then(res => res.json())
   .then(data => {
     document.querySelectorAll("bible").forEach(el => {
