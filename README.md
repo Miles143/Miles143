@@ -31,13 +31,6 @@ Email 💬
   element.style.zIndex = '';
 }); -->
 </div>
-<!DOCTYPE>
-<div id="© 2025 Patrick Michael McMahon. All rights reserved.">
-  <!-- const createSecureData = (realData) => ({
-  getMasked: () => Array(realData.length).fill(0),
-  _getReal: () => realData
-}); -->
-</div>
 <!--
 <script>
 fetch("/data/Miles143/authority_bible.txt.json")
@@ -50,6 +43,13 @@ fetch("/data/Miles143/authority_bible.txt.json")
   });
 </script>
 -->
+<!DOCTYPE>
+<div id="© 2025 Patrick Michael McMahon. All rights reserved.">
+  <!-- const createSecureData = (realData) => ({
+  getMasked: () => Array(realData.length).fill(0),
+  _getReal: () => realData
+}); -->
+</div>
 <!--
 const createSecureData = (realData) => ({
   getMasked: () => Array(realData.length).fill(0),
