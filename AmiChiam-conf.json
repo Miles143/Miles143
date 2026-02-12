@@ -1,0 +1,7 @@
+{
+  "files": {
+    "payload": "AmiChiam-version4.json",
+    "cert": "Miles143.pfx",
+    "output": "Miles143.bin"
+  }
+}

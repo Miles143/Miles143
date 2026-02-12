@@ -1,0 +1,44 @@
+{
+  "network": {
+    "ipv4": {
+      "ip_address": "0.0.0.0",
+      "subnet": "0.0.0.0/0",
+      "version": "IPv4"
+    },
+    "ipv6": {
+      "ip_address": "::",
+      "subnet": "::/0",
+      "version": "IPv6",
+      "notation": "compressed",
+      "oid": ".0"
+    }
+  },
+  "associated_identity": {
+    "phone_number": "0000000000",
+    "type": "mobile"
+  },
+  "environment": {
+    "name": "jailed",
+    "isolation": true,
+    "permissions": {
+      "network_access": "restricted",
+      "external_communication": false,
+      "privileged_operations": false
+    }
+  },
+  "attachments": [
+    {
+      "type": "file",
+      "storage_id_content": 0,
+      "storage_id_path": 0,
+      "access_mode": "read-only",
+      "sandboxed": true,
+      "resolution": "internal-only"
+    }
+  ],
+  "metadata": {
+    "created_at": "2026-01-06T00:00:00Z",
+    "status": "active",
+    "network_mode": "dual-stack"
+  }
+}
